@@ -1,0 +1,23 @@
+frontend:
+
+after the program is finished. Think about the reorganization of the widgets
+
+
+
+
+
+backend:
+remove the {} that appear in the ListBox (Convert ListBox to Treeview)
+update the search function to be case insensitive
+
+
+
+
+export:
+make it so that the app tells you if the file name already exists (maybe...)
+Make the window2 centered to window1
+make the second window close after saving the file (i can't)
+
+
+
+

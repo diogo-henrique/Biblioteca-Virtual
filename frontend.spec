@@ -5,7 +5,6 @@ block_cipher = None
 
 
 a = Analysis(['frontend.py'],
-             pathex=['C:\\Users\\Diogo Henrique\\Desktop\\Guga Books\\Coding'],
              binaries=[],
              datas=[],
              hiddenimports=[],
